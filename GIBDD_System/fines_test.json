@@ -1,0 +1,32 @@
+﻿[
+  {
+    "id": "FINE-001",
+    "car_plate": "А123ВЕ777",
+    "license_number": null,
+    "amount": 500.00,
+    "violation_date": "2026-03-25T10:30:00",
+    "violation_type": "Превышение скорости",
+    "photo_url": "",
+    "status": "new"
+  },
+  {
+    "id": "FINE-002",
+    "car_plate": "",
+    "license_number": "77АА123456",
+    "amount": 1000.00,
+    "violation_date": "2026-03-26T14:15:00",
+    "violation_type": "Неверная парковка",
+    "photo_url": "",
+    "status": "new"
+  },
+  {
+    "id": "FINE-003",
+    "car_plate": null,
+    "license_number": null,
+    "amount": 2500.00,
+    "violation_date": "2026-03-27T12:00:00",
+    "violation_type": "Нарушение разметки (не распознан номер)",
+    "photo_url": "",
+    "status": "new"
+  }
+]
